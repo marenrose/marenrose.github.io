@@ -7,7 +7,7 @@ permalink: /pictures/
 This is a page for pictures that I like.
 
 <ul class="post-list">
-  {% for post in site.posts %}
+  {% for post in site.tags.picture %}
     <li>
       <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
