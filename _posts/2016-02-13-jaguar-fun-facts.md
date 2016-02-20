@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: story
+tags: story
 ---
 ### Facts about jaguars
 * They can swim, run, and climb
